@@ -1,0 +1,28 @@
+_repo: The-Farmer-Boy--the-Story-of-Jacob_14643
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Willard, J. H. (James Hartwell)
+    alias: Willard, James Hartwell
+    birthdate: 1847
+    gutenberg_agent_id: '5611'
+    url: http://www.gutenberg.org/2009/agents/5611
+description: ''
+gutenberg_issued: '2005-01-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14643'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BS'
+- !lcsh 'Jacob (Biblical patriarch) -- Juvenile literature'
+- !lcsh 'Bible. Old Testament -- Biography -- Juvenile literature'
+- !lcsh 'Bible stories -- Old Testament'
+title: 'The Farmer Boy: The Story of Jacob'
+url: http://www.gutenberg.org/ebooks/14643
